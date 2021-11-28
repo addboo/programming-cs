@@ -62,6 +62,7 @@ class ArrayLoops
     } 
     while (k < intArray.Length);
 
+    Console.ReadKey();
   }
 }
 
